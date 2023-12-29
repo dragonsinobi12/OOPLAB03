@@ -1,0 +1,39 @@
+D:\OOPLab\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.exe
+D:\OOPLab\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.deps.json
+D:\OOPLab\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.runtimeconfig.json
+D:\OOPLab\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.dll
+D:\OOPLab\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.pdb
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.Form1.resources
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.Properties.Resources.resources
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.csproj.GenerateResource.cache
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.AssemblyInfoInputs.cache
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.AssemblyInfo.cs
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.dll
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\refint\CoffeeMachine.dll
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.pdb
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.genruntimeconfig.cache
+D:\OOPLab\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\ref\CoffeeMachine.dll
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine..resources
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.BlackCoffeeWindow.resources
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.Form1.resources
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.MochaWindow.resources
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.Properties.Resources.resources
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.csproj.GenerateResource.cache
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.AssemblyInfo.cs
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.exe
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.deps.json
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.runtimeconfig.json
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.dll
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\net8.0-windows\CoffeeMachine.pdb
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.dll
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\refint\CoffeeMachine.dll
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.pdb
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.genruntimeconfig.cache
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\ref\CoffeeMachine.dll
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.LateWindow.resources
+C:\Users\Acer Nitro 5\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0-windows\CoffeeMachine.ChocolateWindow.resources
